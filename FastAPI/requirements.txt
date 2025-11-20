@@ -1,0 +1,5 @@
+fastapi
+passlib
+pymongo
+python-jose
+python-multiparts 
