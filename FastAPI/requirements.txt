@@ -1,5 +1,5 @@
-fastapi
-passlib
-pymongo
+fastapi[standard]
 python-jose
-python-multiparts 
+passlib
+bcrypt
+pymongo
